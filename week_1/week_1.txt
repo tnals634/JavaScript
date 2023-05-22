@@ -9,3 +9,6 @@
 09.js - 스코프 , 지역변수
 10.js - 화살표 함수
 11.js - 조건문 (if, else if, else, switch)
+12.js - 조건문 중첩
+13.js - 조건부 실행
+14.js - falsy 한 값, truthy한 값
