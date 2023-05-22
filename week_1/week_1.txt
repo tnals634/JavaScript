@@ -12,3 +12,8 @@
 12.js - 조건문 중첩
 13.js - 조건부 실행
 14.js - falsy 한 값, truthy한 값
+15.js - 객체
+16.js - 배열(생성, 접근, 메소드, forEach, map, filter, find)
+17.js - for문
+18.js - while문, do while문, break continue문
+19.js - 숙제
